@@ -1,3 +1,4 @@
+//Named functions
 function testScope() {
     var t1 = 3;
     console.log(t1)
@@ -9,3 +10,8 @@ function testScope() {
     console.log(t2,t1);
 }
 testScope();
+
+
+
+
+//IIFE(Immediately invoked functions)
